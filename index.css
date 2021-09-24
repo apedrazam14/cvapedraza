@@ -1,0 +1,316 @@
+body{
+    margin:0;
+    padding:0;
+}
+.FirstSection{
+    width: 30%;
+    height: 850px;
+    background: #AD9B9A;
+}
+
+.FirstSection .Text_FirstSection{
+    width: 10%;
+    height: 50%;
+    position: absolute;
+    left: 4%;
+ }
+ .FirstSection .Photo{
+     position:absolute;
+     top:8%;
+     align-content: center;
+     width: 100px;
+     height: 120px;
+     border-radius: 100%;
+     overflow: hidden;
+
+ }
+
+ .FirstSection .Photo img {
+    width: 100px;
+    height: 120px;
+ }
+
+
+.FirstSection .Text_FirstSection .Contact{
+    width: 130%;
+    height: 15%;
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px cornsilk solid;
+           
+}
+
+.FirstSection .Text_FirstSection .Personal_Email{  
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;   
+    font-size: 3.5mm;
+    
+}
+.FirstSection .Text_FirstSection .Institucional_Email{
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.5mm;    
+}
+.FirstSection .Text_FirstSection .Phone{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.5mm;    
+}
+.FirstSection .Text_FirstSection .City{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 3.5mm;  
+}
+.FirstSection .Text_FirstSection .Linkedin{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 3.5mm;  
+}
+.FirstSection .Text_FirstSection .Software{
+    width: 130%;
+    height: 15%;
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px cornsilk solid;
+              
+}
+
+.FirstSection .Text_FirstSection .Excel{  
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;   
+    font-size: 3.5mm;
+    
+}
+.FirstSection .Text_FirstSection .OrCAD{
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.5mm;    
+}
+.FirstSection .Text_FirstSection .MATLAB{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.5mm;    
+}
+.FirstSection .Text_FirstSection .Proteus{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 3.5mm;  
+}
+.FirstSection .Text_FirstSection .Multisim{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 3.5mm;  
+}
+.FirstSection .Text_FirstSection .LabVIEW{
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;  
+    font-size: 3.5mm;  
+}
+.FirstSection .Text_FirstSection .LANGUAGES{
+    width: 130%;
+    height: 15%;
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px cornsilk solid;
+              
+}
+
+.FirstSection .Text_FirstSection .Spanish{  
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;   
+    font-size: 3.5mm;
+    
+}
+.FirstSection .Text_FirstSection .English{
+    
+    color:cornsilk;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3.5mm;    
+}
+.SecondSection{
+    width: 70%;
+    height: 850px;
+    background:rgb(243, 243, 243);
+}
+.SecondSection .Text_SecondSection .Name{
+    
+    color:#AD9B9A;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    margin-left: 1cm;
+    font-size: 8mm;
+             
+}
+.SecondSection .Text_SecondSection .Career{    
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #AD9B9A solid;
+    margin-left: 1cm;
+    font-size: 4mm;    
+    
+}
+
+.SecondSection .Text_SecondSection .Description{    
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;    
+    
+}
+.SecondSection .Text_SecondSection .Academic{    
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #AD9B9A solid;
+    margin-left: 1cm;
+    font-size: 4mm;    
+    
+}
+.SecondSection .Text_SecondSection .Time .Current{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+    border-right: #AD9B9A dotted;
+}
+.SecondSection .Text_SecondSection .AcademicTitle .CareerName{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .AcademicTitle .University{   
+    color:rgb(68, 68, 68);
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3mm;  
+    font-style: italic;
+}
+.SecondSection .Text_SecondSection .Time .DosQuince{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+    border-right: #AD9B9A dotted;
+}
+.SecondSection .Text_SecondSection .AcademicTitle .Bachilleratos{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .AcademicTitle .College{   
+    color:rgb(68, 68, 68);
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3mm;  
+    font-style: italic;
+}
+.SecondSection .Text_SecondSection .Time .DosNueve{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+    border-right: #AD9B9A dotted;
+}
+.SecondSection .Text_SecondSection .AcademicTitle .Primaria{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .AcademicTitle .Colleges{   
+    color:rgb(68, 68, 68);
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3mm;  
+    font-style: italic;
+}
+.SecondSection .Text_SecondSection .Complementary{    
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #AD9B9A solid;
+    margin-left: 1cm;
+    font-size: 4mm;    
+    
+}
+.SecondSection .Text_SecondSection .Time2 .Current2{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+    border-right: #AD9B9A dotted;
+}
+.SecondSection .Text_SecondSection .AcademicTitle2 .CareerName2{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .AcademicTitle2 .University2{   
+    color:rgb(68, 68, 68);
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3mm;  
+    font-style: italic;
+}
+.SecondSection .Text_SecondSection .Time2 .Current3{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+    border-right: #AD9B9A dotted;
+}
+.SecondSection .Text_SecondSection .AcademicTitle2 .CareerName3{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .AcademicTitle2 .University3{   
+    color:rgb(68, 68, 68);
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3mm;  
+    font-style: italic;
+}
+.SecondSection .Text_SecondSection .Extra{    
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #AD9B9A solid;
+    margin-left: 1cm;
+    font-size: 4mm;    
+    
+}
+.SecondSection .Text_SecondSection .ExtraActivities{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
+.SecondSection .Text_SecondSection .Projects{    
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    border-bottom: 2px #AD9B9A solid;
+    margin-left: 1cm;
+    font-size: 4mm;    
+    
+}
+.SecondSection .Text_SecondSection .ProjectsName{   
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    margin-left: 1cm;
+    font-size: 3.5mm;  
+}
